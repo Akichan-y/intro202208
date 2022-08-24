@@ -9,3 +9,5 @@ VIMを使いこなすと、操作が速くなる、かも。
 
 git commit
 
+Git deff
+
